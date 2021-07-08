@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SlimeStation
+- 👀 I’m interested in game design, 3d modeling
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me dedozzz@gmail.com
